@@ -1,0 +1,1284 @@
+{
+    "clubes": [
+        {
+            "id": 262,
+            "nome": "Flamengo",
+            "abreviacao": "FLA",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2018/04/09/Flamengo-30.png"
+            },
+            "nome_fantasia": "Flamengo"
+        },
+        {
+            "id": 263,
+            "nome": "Botafogo",
+            "abreviacao": "BOT",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/04/botafogo-30.png"
+            },
+            "nome_fantasia": "Botafogo"
+        },
+        {
+            "id": 264,
+            "nome": "Corinthians",
+            "abreviacao": "COR",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/30/Corinthians_30.png"
+            },
+            "nome_fantasia": "Corinthians"
+        },
+        {
+            "id": 266,
+            "nome": "Fluminense",
+            "abreviacao": "FLU",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_60x60.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/fluminense_45x45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2015/01/12/Fluminense-escudo.png"
+            },
+            "nome_fantasia": "Fluminense"
+        },
+        {
+            "id": 275,
+            "nome": "Palmeiras",
+            "abreviacao": "PAL",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_60x60.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_45x45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/palmeiras_30x30.png"
+            },
+            "nome_fantasia": "Palmeiras"
+        },
+        {
+            "id": 276,
+            "nome": "São Paulo",
+            "abreviacao": "SAO",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_60x60.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_45x45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/sao_paulo_30x30.png"
+             },
+            "nome_fantasia": "São Paulo"
+        },
+        {
+            "id": 277,
+            "nome": "Santos",
+            "abreviacao": "SAN",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_60x60.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_45x45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/14/santos_30x30.png"
+            },
+            "nome_fantasia": "Santos"
+        },
+        {
+            "id": 280,
+            "nome": "Bragantino",
+            "abreviacao": "BGT",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2020/01/01/30.png"
+            },
+            "nome_fantasia": "Bragantino"
+        },
+        {
+            "id": 282,
+            "nome": "Atlético-MG",
+            "abreviacao": "CAM",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo65px.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo45px.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2017/11/23/Atletico-Mineiro-escudo30px.png"
+            },
+            "nome_fantasia": "Atlético-MG"
+        },
+        {
+            "id": 285,
+            "nome": "Internacional",
+            "abreviacao": "INT",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2016/05/03/inter30.png"
+            },
+            "nome_fantasia": "Internacional"
+        },
+        {
+            "id": 286,
+            "nome": "Juventude",
+            "abreviacao": "JUV",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2021/04/29/juventude30.png"
+            },
+            "nome_fantasia": "Juventude"
+        },
+        {
+            "id": 290,
+            "nome": "Goiás",
+            "abreviacao": "GOI",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2021/03/01/goias-30.png"
+            },
+            "nome_fantasia": "Goiás"
+        },
+        {
+            "id": 293,
+            "nome": "Athlético-PR",
+            "abreviacao": "CAP",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-65x65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-m.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2019/09/09/Athletico-PR-p.png"
+            },
+            "nome_fantasia": "Athlético-PR"
+        },
+        {
+            "id": 294,
+            "nome": "Coritiba",
+            "abreviacao": "CFC",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2017/03/29/coritiba30.png"
+            },
+            "nome_fantasia": "Coritiba"
+        },
+        {
+            "id": 314,
+            "nome": "Avaí",
+            "abreviacao": "AVA",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-65x65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-m.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2018/09/04/escudo-avai-p.png"
+            },
+            "nome_fantasia": "Avaí"
+        },
+        {
+            "id": 327,
+            "nome": "América-MG",
+            "abreviacao": "AME",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo65_1.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo45_1.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2019/02/28/escudo30.png"
+            },
+            "nome_fantasia": "América-MG"
+        },
+        {
+            "id": 354,
+            "nome": "Ceará",
+            "abreviacao": "CEA",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-65x65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-m.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2019/10/10/ceara-p.png"
+            },
+            "nome_fantasia": "Ceará"
+        },
+        {
+            "id": 356,
+            "nome": "Fortaleza",
+            "abreviacao": "FOR",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/45_0000_Fortaleza-2021.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/30_0000_Fortaleza-2021.png"
+            },
+            "nome_fantasia": "Fortaleza"
+        },
+        {
+            "id": 373,
+            "nome": "Atlético-GO",
+            "abreviacao": "ACG",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2020/07/02/atletico-go-2020-30.png"
+            },
+            "nome_fantasia": "Atlético-GO"
+        },
+        {
+            "id": 1371,
+            "nome": "Cuiabá",
+            "abreviacao": "CUI",
+            "escudos": {
+                "g": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba65.png",
+                "m": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba45.png",
+                "p": "https://s.glbimg.com/es/sde/f/organizacoes/2014/04/16/cuiaba30_.png"
+            },
+            "nome_fantasia": "Cuiabá"
+        }
+    ],
+    "clube": {
+        "356": {
+            "id": 356,
+            "nome": "Fortaleza",
+            "abreviacao": "FOR",
+            "escudos": {
+                "60x60": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/65_0000_Fortaleza-2021.png",
+                "45x45": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/45_0000_Fortaleza-2021.png",
+                "30x30": "https://s.glbimg.com/es/sde/f/organizacoes/2021/09/19/30_0000_Fortaleza-2021.png"
+            },
+            "nome_fantasia": "Fortaleza"
+        }
+    },
+    "posicoes": {
+        "1": {
+            "id": 1,
+            "nome": "Goleiro",
+            "abreviacao": "gol"
+        },
+        "2": {
+            "id": 2,
+            "nome": "Lateral",
+            "abreviacao": "lat"
+        },
+        "3": {
+            "id": 3,
+            "nome": "Zagueiro",
+            "abreviacao": "zag"
+        },
+        "4": {
+            "id": 4,
+            "nome": "Meia",
+            "abreviacao": "mei"
+        },
+        "5": {
+            "id": 5,
+            "nome": "Atacante",
+            "abreviacao": "ata"
+        },
+        "6": {
+            "id": 6,
+            "nome": "Técnico",
+            "abreviacao": "tec"
+        }
+    },
+    "status": {
+        "2": {
+            "nome": "Dúvida",
+            "id": 2
+        },
+        "3": {
+            "nome": "Suspenso",
+            "id": 3
+        },
+        "5": {
+            "nome": "Contundido",
+            "id": 5
+        },
+        "6": {
+            "nome": "Nulo",
+            "id": 6
+        },
+        "7": {
+            "nome": "Provável",
+            "id": 7
+        }
+    },
+    "atletas": [
+        {
+            "scout": {
+                "A": 1,
+                "CA": 2,
+                "DS": 27,
+                "FC": 11,
+                "FD": 6,
+                "FF": 2,
+                "FS": 14,
+                "PC": 1,
+                "PI": 62,
+                "SG": 6
+            },
+            "atleta_id": 95638,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 3,
+            "status_id": 7,
+            "pontos_num": 9.5,
+            "preco_num": 8.56,
+            "variacao_num": 0.81,
+            "media_num": 3.94,
+            "jogos_num": 18,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "marcelo-benevenuto",
+            "apelido": "Marcelo Benevenuto",
+            "apelido_abreviado": "M. Benevenuto",
+            "nome": "Marcelo da Conceição Benevenuto Malaquias",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/5021e3ea5f8c3db816a9537e53808b5a_140x140.png"
+        },
+        {
+            "scout": {},
+            "atleta_id": 104754,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 6,
+            "status_id": 7,
+            "pontos_num": 5.71,
+            "preco_num": 8.27,
+            "variacao_num": 0.19,
+            "media_num": 3.73,
+            "jogos_num": 19,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "juan-vojvoda",
+            "apelido": "Juan Vojvoda",
+            "apelido_abreviado": "J. Vojvoda",
+            "nome": "Juan Pablo Vojvoda Rizzo",
+            "foto": "https://s.glbimg.com/es/sde/f/2021/05/04/b1ac9362e20bba2d6dc699906e1420cc_140x140.png"
+        },
+        {
+            "scout": {
+                "DE": 9,
+                "FS": 1,
+                "GS": 5
+            },
+            "atleta_id": 88916,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 1,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 5.03,
+            "variacao_num": 0,
+            "media_num": 2.25,
+            "jogos_num": 2,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "luan-polli",
+            "apelido": "Luan Polli",
+            "apelido_abreviado": "L. Polli",
+            "nome": "Luan Polli Gomes",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/07/29/8a9128472f54ae0e854e5a35d456eb76_140x140.png"
+        },
+        {
+            "scout": {
+                "CA": 1,
+                "DE": 15,
+                "SG": 3
+            },
+            "atleta_id": 71571,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 1,
+            "status_id": 7,
+            "pontos_num": 10,
+            "preco_num": 7.55,
+            "variacao_num": 0.55,
+            "media_num": 9.67,
+            "jogos_num": 3,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "fernando-miguel",
+            "apelido": "Fernando Miguel",
+            "apelido_abreviado": "F. Miguel",
+            "nome": "Fernando Miguel Kaufmann",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/23/66ea94ea2768ebd6a6cb8f102326d669_140x140.png"
+        },
+        {
+            "scout": {
+                "CA": 2,
+                "DS": 21,
+                "FC": 24,
+                "FF": 2,
+                "FS": 16,
+                "I": 2,
+                "PI": 71,
+                "SG": 6
+            },
+            "atleta_id": 50353,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 3,
+            "status_id": 7,
+            "pontos_num": 9.2,
+            "preco_num": 6.42,
+            "variacao_num": 0.93,
+            "media_num": 2.83,
+            "jogos_num": 17,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "titi",
+            "apelido": "Titi",
+            "apelido_abreviado": "Titi",
+            "nome": "Christian Chagas Tarouco",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/5050c64ba68bdb4ca40033690ae7c525_140x140.png"
+        },
+        {
+            "scout": {
+                "A": 2,
+                "CA": 2,
+                "DS": 14,
+                "FC": 14,
+                "FD": 5,
+                "FF": 4,
+                "FS": 19,
+                "I": 3,
+                "PI": 117
+            },
+            "atleta_id": 80583,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 4,
+            "status_id": 7,
+            "pontos_num": 0,
+            "preco_num": 3.37,
+            "variacao_num": 0,
+            "media_num": 2.1,
+            "jogos_num": 13,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "lucas-lima",
+            "apelido": "Lucas Lima",
+            "apelido_abreviado": "L. Lima",
+            "nome": "Lucas Rafael Araújo Lima",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/84bb3dd96bdb6d9a87233dfc22d19bef_140x140.png"
+        },
+        {
+            "scout": {
+                "DE": 13,
+                "GS": 6
+            },
+            "atleta_id": 84338,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 1,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 2.88,
+            "variacao_num": 0,
+            "media_num": 1.4,
+            "jogos_num": 5,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "max-walef",
+            "apelido": "Max Walef",
+            "apelido_abreviado": "M. Walef",
+            "nome": "Max Walef Araújo da Silva",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/23/0784484c9e35ebc5b014f365b5cbb5cc_140x140.png"
+        },
+        {
+            "scout": {
+                "A": 1,
+                "CA": 2,
+                "DS": 8,
+                "FC": 6,
+                "FD": 2,
+                "FF": 9,
+                "FS": 18,
+                "G": 2,
+                "I": 2,
+                "PI": 52
+            },
+            "atleta_id": 84523,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 5,
+            "status_id": 6,
+            "pontos_num": 2.5,
+            "preco_num": 3.82,
+            "variacao_num": -0.27,
+            "media_num": 3.64,
+            "jogos_num": 11,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "romarinho",
+            "apelido": "Romarinho",
+            "apelido_abreviado": "Romarinho",
+            "nome": "José Romário Silva de Souza",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/ccaf4552cbd0363c0a3fceefa2bf00bf_140x140.png"
+        },
+        {
+            "scout": {
+                "CA": 2,
+                "DE": 31,
+                "FS": 3,
+                "GS": 16,
+                "PC": 1,
+                "SG": 3
+            },
+            "atleta_id": 37788,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 1,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 4.6,
+            "variacao_num": 0,
+            "media_num": 2.59,
+            "jogos_num": 11,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "marcelo-boeck",
+            "apelido": "Marcelo Boeck",
+            "apelido_abreviado": "M. Boeck",
+            "nome": "Marcelo Boeck",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/23/34de12a5651c918b60321caf78ecbfa7_140x140.png"
+        },
+        {
+            "scout": {
+                "A": 1,
+                "CA": 3,
+                "DS": 7,
+                "FC": 22,
+                "FD": 5,
+                "FF": 7,
+                "FS": 16,
+                "FT": 1,
+                "G": 3,
+                "I": 7,
+                "PI": 36,
+                "PS": 1
+            },
+            "atleta_id": 84817,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 5,
+            "status_id": 6,
+            "pontos_num": 10.5,
+            "preco_num": 7.53,
+            "variacao_num": 1.88,
+            "media_num": 3.36,
+            "jogos_num": 14,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "robson",
+            "apelido": "Robson",
+            "apelido_abreviado": "Robson",
+            "nome": "Robson dos Santos Fernandes",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/6d625807fa7a6d37492ec7d37c654dc8_140x140.png"
+        },
+        {
+            "scout": {
+                "DS": 10,
+                "FC": 4,
+                "FD": 1,
+                "FS": 5,
+                "PI": 50
+            },
+            "atleta_id": 82628,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 2,
+            "status_id": 5,
+            "pontos_num": 0,
+            "preco_num": 3.9,
+            "variacao_num": 0,
+            "media_num": 2.37,
+            "jogos_num": 4,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "tinga",
+            "apelido": "Tinga",
+            "apelido_abreviado": "Tinga",
+            "nome": "Guilherme de Jesus da Silva",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/5625a3af4c995f2795c36c880eaf1e9d_140x140.png"
+        },
+        {
+            "scout": {
+                "A": 1,
+                "CA": 3,
+                "DS": 10,
+                "FC": 10,
+                "FF": 3,
+                "FS": 8,
+                "I": 1,
+                "PI": 102
+            },
+            "atleta_id": 88597,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 4,
+            "status_id": 7,
+            "pontos_num": 0,
+            "preco_num": 1.96,
+            "variacao_num": 0,
+            "media_num": 0.48,
+            "jogos_num": 15,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "lucas-crispim",
+            "apelido": "Lucas Crispim",
+            "apelido_abreviado": "L. Crispim",
+            "nome": "Lucas de Figueiredo Crispim",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/043b82cd8bbcab2108944aa3cf34372e_140x140.png"
+        },
+        {
+            "scout": {
+                "A": 1,
+                "CA": 2,
+                "DS": 23,
+                "FC": 14,
+                "FF": 3,
+                "FS": 13,
+                "PI": 60
+            },
+            "atleta_id": 91733,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 4,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 5.42,
+            "variacao_num": 0,
+            "media_num": 2.66,
+            "jogos_num": 11,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "felipe",
+            "apelido": "Felipe",
+            "apelido_abreviado": "Felipe",
+            "nome": "Luiz Antonio Ferreira Rodrigues",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/a8b962d2aca19bf9d892471bebd26383_140x140.png"
+        },
+        {
+            "scout": {
+                "A": 2,
+                "CA": 4,
+                "DS": 37,
+                "FC": 28,
+                "FD": 4,
+                "FF": 6,
+                "FS": 25,
+                "FT": 1,
+                "PI": 192,
+                "SG": 5
+            },
+            "atleta_id": 94968,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 2,
+            "status_id": 7,
+            "pontos_num": 9,
+            "preco_num": 7.55,
+            "variacao_num": 0.02,
+            "media_num": 4.56,
+            "jogos_num": 16,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "juninho-capixaba",
+            "apelido": "Juninho Capixaba",
+            "apelido_abreviado": "J. Capixaba",
+            "nome": "Luis Antônio da Rocha Júnior",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/404f0a454cb039f59334f747add17f5e_140x140.png"
+        },
+        {
+            "scout": {
+                "CA": 2,
+                "DS": 4,
+                "FC": 8,
+                "FD": 2,
+                "FF": 7,
+                "FS": 10,
+                "I": 2,
+                "PI": 37
+            },
+            "atleta_id": 87929,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 4,
+            "status_id": 6,
+            "pontos_num": 0.9,
+            "preco_num": 3.47,
+            "variacao_num": -0.23,
+            "media_num": 1.19,
+            "jogos_num": 8,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "matheus-vargas",
+            "apelido": "Matheus Vargas",
+            "apelido_abreviado": "M. Vargas",
+            "nome": "Matheus de Vargas",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/8d527aee11a3ca28fe1dab544e70733d_140x140.png"
+        },
+        {
+            "scout": {},
+            "atleta_id": 109341,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 4,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 1,
+            "variacao_num": 0,
+            "media_num": 0,
+            "jogos_num": 0,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "sammuel",
+            "apelido": "Sammuel",
+            "apelido_abreviado": "Sammuel",
+            "nome": "Sammuel Queiroz de Freitas",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/34eebe02442f63e6c4eee4a972018bc8_140x140.png"
+        },
+        {
+            "scout": {
+                "CA": 4,
+                "DS": 11,
+                "FC": 13,
+                "FD": 1,
+                "FF": 1,
+                "FS": 6,
+                "PI": 34
+            },
+            "atleta_id": 100969,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 4,
+            "status_id": 7,
+            "pontos_num": 1.1,
+            "preco_num": 2.79,
+            "variacao_num": -0.46,
+            "media_num": 0.77,
+            "jogos_num": 9,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "ronald",
+            "apelido": "Ronald",
+            "apelido_abreviado": "Ronald",
+            "nome": "Ronald dos Santos Lopes",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/50ab9a9c9ef9edc1a9bed39d4552c026_140x140.png"
+        },
+        {
+            "scout": {
+                "A": 1,
+                "DS": 11,
+                "FC": 5,
+                "FD": 12,
+                "FF": 10,
+                "FS": 10,
+                "G": 3,
+                "I": 4,
+                "PI": 81
+            },
+            "atleta_id": 104666,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 5,
+            "status_id": 7,
+            "pontos_num": -0.6,
+            "preco_num": 5.57,
+            "variacao_num": -0.3,
+            "media_num": 3.15,
+            "jogos_num": 19,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "moises",
+            "apelido": "Moisés",
+            "apelido_abreviado": "Moisés",
+            "nome": "Moisés Vieira da Veiga",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/d70cbac7a2764d91733f288c09e9f357_140x140.png"
+        },
+        {
+            "scout": {
+                "DS": 4,
+                "FC": 5,
+                "FD": 1,
+                "FF": 1,
+                "FS": 2,
+                "PI": 21
+            },
+            "atleta_id": 114138,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 5,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 2.16,
+            "variacao_num": 0,
+            "media_num": 0.42,
+            "jogos_num": 10,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "depietri",
+            "apelido": "Depietri",
+            "apelido_abreviado": "Depietri",
+            "nome": "Valentín Depietri",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/24/8b54d582e43cf79302c2577ad53d6e26_140x140.png"
+        },
+        {
+            "scout": {
+                "CA": 1,
+                "DS": 9,
+                "FC": 16,
+                "FD": 1,
+                "FS": 5,
+                "PI": 44,
+                "PS": 1,
+                "SG": 1
+            },
+            "atleta_id": 94787,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 2,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 2.51,
+            "variacao_num": 0,
+            "media_num": 1.47,
+            "jogos_num": 7,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "landazuri",
+            "apelido": "Landázuri",
+            "apelido_abreviado": "Landázuri",
+            "nome": "Anthony Rigoberto Landázuri Estacio",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/99227769c8cf1b0aba013765d0f00f85_140x140.png"
+        },
+        {
+            "scout": {
+                "CA": 4,
+                "CV": 1,
+                "DS": 25,
+                "FC": 12,
+                "FD": 2,
+                "FF": 5,
+                "FS": 3,
+                "FT": 1,
+                "I": 1,
+                "PI": 62,
+                "SG": 3
+            },
+            "atleta_id": 115502,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 3,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 3.84,
+            "variacao_num": 0,
+            "media_num": 3.26,
+            "jogos_num": 12,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "ceballos",
+            "apelido": "Ceballos",
+            "apelido_abreviado": "Ceballos",
+            "nome": "Brayan Andrés Ceballos Jiménez",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/74e0c34f6d9685b4e494c70171746de9_140x140.png"
+        },
+        {
+            "scout": {
+                "CA": 1,
+                "DS": 26,
+                "FC": 15,
+                "FD": 1,
+                "FF": 7,
+                "FS": 9,
+                "G": 1,
+                "PI": 62
+            },
+            "atleta_id": 86859,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 4,
+            "status_id": 5,
+            "pontos_num": 0,
+            "preco_num": 5.52,
+            "variacao_num": 0,
+            "media_num": 3.53,
+            "jogos_num": 11,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "jose-welison",
+            "apelido": "José Welison",
+            "apelido_abreviado": "J. Welison",
+            "nome": "José Welison da Silva",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/03/14/5a5a881aaebeac670cfe3b9b080c99a2_140x140.jpeg"
+        },
+        {
+            "scout": {
+                "CA": 1,
+                "DS": 5,
+                "PI": 13
+            },
+            "atleta_id": 107226,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 2,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 3.12,
+            "variacao_num": 0,
+            "media_num": 1.85,
+            "jogos_num": 2,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "vitor-ricardo",
+            "apelido": "Vitor Ricardo",
+            "apelido_abreviado": "V. Ricardo",
+            "nome": "Vitor Ricardo Guerra Candido Wach",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/02/25/f9c34555359e8b47ae00538231aa5bf8_140x140.png"
+        },
+        {
+            "scout": {
+                "CA": 1,
+                "DS": 17,
+                "FC": 9,
+                "FD": 7,
+                "FF": 8,
+                "FS": 4,
+                "G": 1,
+                "I": 1,
+                "PI": 58
+            },
+            "atleta_id": 116447,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 4,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 3.75,
+            "variacao_num": 0,
+            "media_num": 2.96,
+            "jogos_num": 12,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "hercules",
+            "apelido": "Hércules",
+            "apelido_abreviado": "Hércules",
+            "nome": "Hércules Pereira do Nascimento",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/6429cedc69ac434a2c09ab6caf1f83c7_140x140.png"
+        },
+        {
+            "scout": {
+                "DS": 3,
+                "FC": 4,
+                "FD": 1,
+                "FF": 3,
+                "FS": 4,
+                "G": 1,
+                "PI": 12,
+                "SG": 2
+            },
+            "atleta_id": 115270,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 3,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 2.45,
+            "variacao_num": 0,
+            "media_num": 8.27,
+            "jogos_num": 3,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "habraao",
+            "apelido": "Habraão",
+            "apelido_abreviado": "Habraão",
+            "nome": "Habraão Lincon do Nascimento Saraiva",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/79c1454b609937a5b20a3a0b549b4f9f_140x140.png"
+        },
+        {
+            "scout": {},
+            "atleta_id": 104681,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 5,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 2,
+            "variacao_num": 0,
+            "media_num": 0,
+            "jogos_num": 0,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "gabriel-silva",
+            "apelido": "Gabriel Silva",
+            "apelido_abreviado": "G. Silva",
+            "nome": "Gabriel Santos Silva",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/03/29/208d9eaf6488734e37ec5ee3a9192684_140x140.png"
+        },
+        {
+            "scout": {
+                "A": 1,
+                "CA": 1,
+                "DS": 2,
+                "FC": 3,
+                "FD": 4,
+                "FF": 11,
+                "FS": 7,
+                "I": 9,
+                "PI": 38
+            },
+            "atleta_id": 79188,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 5,
+            "status_id": 7,
+            "pontos_num": 0,
+            "preco_num": 3.4,
+            "variacao_num": -0.33,
+            "media_num": 0.98,
+            "jogos_num": 18,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "silvio-romero",
+            "apelido": "Silvio Romero",
+            "apelido_abreviado": "S. Romero",
+            "nome": "Silvio Ezequiel Romero",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/05/12/c5b6ac96aea31d2271156591230c8f4c_140x140.png"
+        },
+        {
+            "scout": {
+                "CA": 2,
+                "DS": 1,
+                "FC": 4,
+                "FD": 2,
+                "FF": 2,
+                "FS": 7,
+                "PI": 15
+            },
+            "atleta_id": 71844,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 5,
+            "status_id": 6,
+            "pontos_num": -0.3,
+            "preco_num": 7.2,
+            "variacao_num": -0.57,
+            "media_num": 1.33,
+            "jogos_num": 3,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "thiago-galhardo",
+            "apelido": "Thiago Galhardo",
+            "apelido_abreviado": "T. Galhardo",
+            "nome": "Thiago Galhardo do Nascimento Rocha",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/07/16/27deb38ffaefdd66a10d7f246dcc678f_140x140.png"
+        },
+        {
+            "scout": {
+                "DS": 5,
+                "FC": 3,
+                "FF": 1,
+                "FS": 2,
+                "PI": 12
+            },
+            "atleta_id": 68991,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 4,
+            "status_id": 7,
+            "pontos_num": 5.5,
+            "preco_num": 3.99,
+            "variacao_num": 1.08,
+            "media_num": 1.9,
+            "jogos_num": 3,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "lucas-sasha",
+            "apelido": "Lucas Sasha",
+            "apelido_abreviado": "L. Sasha",
+            "nome": "Lucas Pacheco Affini",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/07/16/d91654c9e126e6f3f17fd09b816eedf5_140x140.png"
+        },
+        {
+            "scout": {
+                "DS": 1
+            },
+            "atleta_id": 83004,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 4,
+            "status_id": 6,
+            "pontos_num": 1.2,
+            "preco_num": 5.48,
+            "variacao_num": -1.52,
+            "media_num": 1.2,
+            "jogos_num": 1,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "otero",
+            "apelido": "Otero",
+            "apelido_abreviado": "Otero",
+            "nome": "Rómulo Otero Vásquez",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/07/16/c5f5df2eead162d7dc6248c825aa23b0_140x140.png"
+        },
+        {
+            "scout": {
+                "CA": 1
+            },
+            "atleta_id": 108752,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 5,
+            "status_id": 6,
+            "pontos_num": 0,
+            "preco_num": 1.97,
+            "variacao_num": 0,
+            "media_num": -1,
+            "jogos_num": 0,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "david",
+            "apelido": "David",
+            "apelido_abreviado": "David",
+            "nome": "David da Hora da Conceição",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/07/16/c33c9f1a80f322e8e721a8101a44e3e0_140x140.png"
+        },
+        {
+            "scout": {
+                "DS": 9,
+                "FC": 5,
+                "G": 1,
+                "PI": 25,
+                "SG": 2
+            },
+            "atleta_id": 101995,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 2,
+            "status_id": 7,
+            "pontos_num": 3.3,
+            "preco_num": 7.39,
+            "variacao_num": -0.82,
+            "media_num": 8.27,
+            "jogos_num": 3,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "britez",
+            "apelido": "Brítez",
+            "apelido_abreviado": "Brítez",
+            "nome": "Emanuel Fermín Brítez",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/07/16/933d90afd9fed6c8f8426f4c450f232e_140x140.png"
+        },
+        {
+            "scout": {
+                "DS": 2,
+                "FC": 1,
+                "FS": 1,
+                "PI": 5
+            },
+            "atleta_id": 84993,
+            "rodada_id": 20,
+            "clube_id": 356,
+            "posicao_id": 4,
+            "status_id": 6,
+            "pontos_num": 1,
+            "preco_num": 3.24,
+            "variacao_num": -0.05,
+            "media_num": 1.05,
+            "jogos_num": 2,
+            "minimo_para_valorizar": null,
+            "gato_mestre": {
+                "media_pontos_mandante": null,
+                "media_pontos_visitante": null
+            },
+            "slug": "fabricio-baiano",
+            "apelido": "Fabrício Baiano",
+            "apelido_abreviado": "F. Baiano",
+            "nome": "Fabrício Santos de Jesus",
+            "foto": "https://s.glbimg.com/es/sde/f/2022/07/16/89176758f659f2237119a0bced3a49fb_140x140.png"
+        }
+    ]
+}
